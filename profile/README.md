@@ -18,7 +18,10 @@ The main objective of my research is to explore how AI technologies can enhance 
 
 Here are the repositories related to my research:
 
-### 1. [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction-public)
+### [GBFS-Go-Adapter](https://github.com/PhD-Kerger/gbfs-go-adapter)
+JSON Schema definitions and Go language bindings for the General Bikeshare Feed Specification (GBFS).
+
+### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction-public)
 
 Machine Learing approach to predict the destination coordinates of vehicles based on GBFS fields with XGBoost multi-target regression.
 

@@ -21,7 +21,7 @@ Here are the repositories related to my research:
 ### [GBFS-Go-Adapter](https://github.com/PhD-Kerger/gbfs-go-adapter)
 JSON Schema definitions and Go language bindings for the General Bikeshare Feed Specification (GBFS).
 
-### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction-public)
+### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction)
 
 Machine Learing approach to predict the destination coordinates of vehicles based on GBFS fields with XGBoost multi-target regression.
 

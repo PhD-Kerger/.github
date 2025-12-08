@@ -44,11 +44,13 @@ A notification system for monitoring public mobility data and alerting on signif
 #### [Data Pipelines](https://github.com/PhD-Kerger/data-pipelines)
 Data pipelines for processing and transforming collected data into analysis-ready formats.
 
-
-### Machine Learning
+### Artifical Intelligence
 
 #### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction)
 Machine Learing approach to predict the destination coordinates of vehicles based on GBFS fields with XGBoost multi-target regression.
+
+#### [Bipartite-Temporal-Graph Station Linkage](https://github.com/PhD-Kerger/btg-bikeshare)
+Bipartite-Temporal-Graph for Linking Bike-Sharing Stations with Urban Context.
 
 ## Contact 📬
 

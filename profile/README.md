@@ -49,8 +49,8 @@ Data pipelines for processing and transforming collected data into analysis-read
 #### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction)
 Machine Learing approach to predict the destination coordinates of vehicles based on GBFS fields with XGBoost multi-target regression.
 
-#### [Bipartite-Temporal-Graph Station Linkage](https://github.com/PhD-Kerger/btg-bikeshare)
-Bipartite-Temporal-Graph for Linking Bike-Sharing Stations with Urban Context.
+#### [Temporal-Knowledge-Graph O/D Location Linkage](https://github.com/PhD-Kerger/btg-bikeshare)
+Temporal-Knowledge-Graph for Linking Micromobility O/D locations with Urban Context.
 
 ## Contact 📬
 

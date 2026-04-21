@@ -44,6 +44,9 @@ A notification system for monitoring public mobility data and alerting on signif
 #### [Data Pipelines](https://github.com/PhD-Kerger/data-pipelines)
 Data pipelines for processing and transforming collected data into analysis-ready formats.
 
+#### [Virtual Station Discovery & Classifier](https://github.com/PhD-Kerger/virtual-micromobility-station-classifier)
+A tool for discovering virtual stations and classifying micromobility locations across different network types (Station-based, Free-floating, or Mixed). 
+
 ### Artifical Intelligence
 
 #### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction)

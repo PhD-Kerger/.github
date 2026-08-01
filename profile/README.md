@@ -49,8 +49,8 @@ A tool for discovering virtual stations and classifying micromobility locations 
 
 ### Artifical Intelligence
 
-#### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction)
-Machine Learing approach to predict the destination coordinates of vehicles based on GBFS fields with XGBoost multi-target regression.
+#### [Trip Destination Prediction](https://github.com/PhD-Kerger/trip-destination-prediction) | [[Journal Paper](https://www.sciencedirect.com/science/article/pii/S295010592500049X)]
+Machine Learning approach to predict the destination coordinates of vehicles based on GBFS fields with XGBoost multi-target regression.
 
 #### [Temporal-Knowledge-Graph O/D Location Linkage](https://github.com/PhD-Kerger/btg-bikeshare)
 Temporal-Knowledge-Graph for Linking Micromobility O/D locations with Urban Context.

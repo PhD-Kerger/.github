@@ -55,6 +55,9 @@ Machine Learning approach to predict the destination coordinates of vehicles bas
 #### [Temporal-Knowledge-Graph O/D Location Linkage](https://github.com/PhD-Kerger/btg-bikeshare)
 Temporal-Knowledge-Graph for Linking Micromobility O/D locations with Urban Context.
 
+#### [Availability Forecasting](https://github.com/PhD-Kerger/availability-forecasting)
+Availability Forecasting for Station-Based Bike-Sharing Systems with a GRU-GAT using Transfer Learning.
+
 ## Contact 📬
 
 - Email: [daniel.kerger@students.uni-mannheim.de](mailto:daniel.kerger@students.uni-mannheim.de)
